@@ -4,7 +4,7 @@ This calculator calculates the exact number of robberies needed to get a guarant
 1. Download HMRL Calculator.exe
 2. Run the file
 3. Select your current grinding level (1-5)
-4. Specify your server type (vip, small public, big public)
+4. Specify your server type (vip, small, big)
 5. Enter your current pity progress shown in game, based on the server type where the progress was earned
 6. Get the result
 ## Source Code
