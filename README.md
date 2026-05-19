@@ -1,21 +1,22 @@
 # How Many Robberies Left Calculator for Jailbreak
 ## How to use
 1. Download HMRL Calculator.exe
-2. Run the file
-3. Select your current grinding level (1-5)
-4. Enter your server type (vip, small, big)
-5. Enter your current pity progress shown in game, based on the server type where the progress was earned
+2. Open the file
+3. Choose your current grinding level (1-5)
+4. Choose your server type (vip, small, big)
+5. Enter your current progress shown in the game, based on the server type where you got it
 6. Get the result
 
 ![Example](photo.png)
 
 ## Source Code
-You can review the program code by downloading the .ps1 file. The .exe version is a converted file for a more convenient launch.
+You can check the code by downloading the .ps1 file. The .exe version is just a easier way to run it
 ## Calculation Logic
-The tool uses the following formula to determine your progress:
+The calculator uses this formula to count your progress
 
 Robberies = (MaxPity - CurrentPity) / PityPerRobbery
 
-The values are automatically adjusted based on whether you are in a Big server (MaxPity = 100) or a Small/VIP server (MaxPity = 66.66666). Upon reaching 66.66666% pity on a Small/VIP server, joining a Big Public server will multiply this value by 1.5, increasing it to 100%.
+The numbers change automatically depending on your server — Big server (MaxPity = 100) or Small/VIP server (MaxPity = 66.66666)
+If you reach 66.66666% pity on a Small/VIP server and then join a Big Public server, your pity gets multiplied by 1.5, which brings it up to 100%
 
 *Created by Claude and s1rgei*
