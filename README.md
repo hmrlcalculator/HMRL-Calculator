@@ -21,3 +21,7 @@ The result depends on the server type — Big server (MaxPity = 100) or Small/VI
 If you reach 66.66666% pity on a Small/VIP server and then join a Big server, your pity gets multiplied by 1.5, which brings it up to 100%
 
 *Created by Claude and s1rgei*
+
+Also you can use this table
+
+![PitySystem](pitysystem.png)
