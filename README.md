@@ -6,6 +6,7 @@
 4. Enter your server type (vip, small, big)
 5. Enter your current pity progress shown in game, based on the server type where the progress was earned
 6. Get the result
+![Example](photo.png)
 ## Source Code
 You can review the program code by downloading the .ps1 file. The .exe version is a converted file for a more convenient launch.
 ## Calculation Logic
